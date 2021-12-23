@@ -1,0 +1,60 @@
+*{
+    margin: 10px;
+    width: 700px;
+    box-sizing: border-box;
+    text-align: center;
+   /*Color letras*/
+}
+
+.title{
+  color:#FAF2A1;
+  font-size:30px; 
+}
+
+h4{
+  color: #FAF2A1;
+  font-size: 22px;
+
+}
+
+body{
+    font-style: 'Didont';
+    text-align: center;
+   background-color: #A663CC;
+   color: #FAF2A1
+
+}
+/*color de pagina y estilo de letras*/
+
+.questions{
+  font-style: 'Didont';
+  text-align: center;
+  background-color: #A663CC;
+  color: #FAF2A1;
+   
+}
+
+form{
+background-color:#CDE77F;
+width: 500px;
+justify-content: center;
+margin: auto;
+background-size: cover;
+}
+
+button{
+ background-color: #CDE77F;
+ color:#684551;
+ font-size: 20px;
+ width: 250px;
+ border-radius:10rem;
+ margin: 10px 40px 10px 0px;
+ block-size: 30px;
+ text-align: center;
+ padding: 0px;
+}
+
+.footer{
+  color:#FAF2A1;
+  font-size:30px; 
+}
